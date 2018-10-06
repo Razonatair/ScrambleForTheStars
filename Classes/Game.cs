@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 //One of the few actual GameObjects that Scramble uses. This class is essentially the root of
-//all of classes, the overlord of the entire program.
+//all of the classes, the overlord of the entire program.
 
 namespace Scramble
 {
