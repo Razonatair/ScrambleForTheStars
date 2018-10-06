@@ -7,7 +7,7 @@ CONTROLS:
 
 Left click to select things, ideally the ship you see in the middle.
 
-Right click to give orders to the ship.
+Right click to give movement orders to the ship. (You can queue orders by the way.)
 
 Middle click (I tested with my scrollwheel, your middle mouse might be different?) allows you to drag the view around.
 
