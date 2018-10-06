@@ -4,10 +4,15 @@ Contained in this repository are the classes of "Scramble for the Stars", an ult
 The prototype works on Windows as far as I tested, both in windowed and fullscreen mode. Sorry Mac and Linux users. The prototype consists of the entire zip archive.
 
 CONTROLS:
-Left click to select things, ideally the ship you see in the middle./n
+
+Left click to select things, ideally the ship you see in the middle.
+
 Right click to give orders to the ship.
+
 Middle click (I tested with my scrollwheel, your middle mouse might be different?) allows you to drag the view around.
+
 The Enter key ends the turn, refreshing the ship's movement points.
+
 The Escape key ends the program.
 
 I know that the selection icon doesn't follow the ship, and I also know there is weird artifacting when the view goes beyond the edge of the star system. Both are expected. Ideally, it should be nearly impossible for you to break the game without messing directly with the files. I invite you to try to break it within the bounds of the game, unless it just starts and there's nothing but a black screen immediately. I'm pretty sure I fixed that problem though.
